@@ -16,9 +16,9 @@ Technologies Used
 
 Folder Structure 
 src/
+├─ components/
+│  ├─ UserForm.jsx
+│  ├─ UserList.jsx
+│  ├─ UserItem.jsx
 ├─ App.jsx
-├─ UserForm.jsx
-├─ UserList.jsx
-├─ UserItem.jsx
 ├─ main.jsx
-├─ index.css
